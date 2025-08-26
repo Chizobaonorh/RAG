@@ -1,0 +1,4 @@
+venv
+rag-intro-chat-with-docs
+.env
+chroma-env
